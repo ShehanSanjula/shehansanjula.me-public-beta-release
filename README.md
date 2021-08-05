@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
 ![CSS](https://img.shields.io/badge/Language-CSS-blue)
 
-### Releases
+### Stable Release
 ![version](https://img.shields.io/badge/Version-4.0-informational?style=flat&logoColor=white&color=2bbc8a)
 
 <br/>
