@@ -7,7 +7,7 @@
 ![CSS](https://img.shields.io/badge/Language-CSS-blue)
 
 ### Stable Release
-![version](https://img.shields.io/badge/Version-4.0-informational?style=flat&logoColor=white&color=2bbc8a)
+![version](https://img.shields.io/badge/Version-5.0-informational?style=flat&logoColor=white&color=2bbc8a)
 
 <br/>
 
